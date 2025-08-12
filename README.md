@@ -6,7 +6,7 @@
 
 Eu me chamo Yuri Barbalho e sou um profissional da área de dados. Sou bacharel em Ciência da Computação pelo Intistuto de Educação Superior de Brasília e possuo algumas formações na área da tecnologia. Desde pequeno sempre fui fanático por informática e sonhava em trabalhar com isso quando crescesse.
 
-Ao longo da faculdade, conciliei os estudos da graduação com vários cursos complementares que abrangem a área tech, tais como: montagem, configuração e manutenção de computadores e notebooks, web design, utilização de sistemas Linux e desenvolvimento em Java e Laboratório com Testes, JSF e Design Patterns. Na época da conclusão do meu curso, fui premiado com a Láurea Acadêmica como aluno destaque da graduação.
+Ao longo da faculdade, conciliei os estudos da graduação com vários cursos complementares que abrangem a área tech, tais como: manutenção e configuração de computadores e notebooks, web design, utilização de sistemas Linux e desenvolvimento em Java e Laboratório com Testes, JSF e Design Patterns. Na época da conclusão do meu curso, fui premiado com a Láurea Acadêmica como aluno destaque da graduação.
 
 Recentemente, me aproximei da área de dados e conheci um mundo abrangedor, que até então era novo para mim. Passei a trabalhar como data collector e a realizar o bootcamp da TripleTen para formação em análise de dados. Durante o curso, aprendi a trabalhar com diversas ferramentas relacionadas a análise exploratória dos dados e a aperfeiçoar meus conhecimentos em Python e SQL.
 
