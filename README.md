@@ -15,10 +15,10 @@ Fique à vontade para conhecer os meus projetos. Caso queira entrar em contato, 
 ## Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="SQL" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jupyter.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="PowerBI" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="Git" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://jupyter.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jupyter.svg" alt="Jupyter" width="40" height="40"/></a>
+  <a href="https://app.powerbi.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="PowerBI" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
