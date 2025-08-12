@@ -4,7 +4,7 @@
 **ybarbalho/ybarbalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Eu me chamo Yuri Barbalho e sou um profissional da área de dados. Sou bacharel em Ciência da Computação pelo Intistuto de Educação Superior de Brasília e possuo várias formações na área da tecnologia. Desde pequeno sempre fui fanático por informática e sonhava em trabalhar com isso quando crescesse.
+Eu me chamo Yuri Barbalho e sou um profissional da área de dados. Sou bacharel em Ciência da Computação pelo Intistuto de Educação Superior de Brasília e possuo algumas formações na área da tecnologia. Desde pequeno sempre fui fanático por informática e sonhava em trabalhar com isso quando crescesse.
 
 Ao longo da faculdade, conciliei os estudos da graduação com vários cursos complementares que abrangem a área tech, tais como: montagem, configuração e manutenção de computadores e notebooks, web design, utilização de sistemas Linux e desenvolvimento em Java e Laboratório com Testes, JSF e Design Patterns. Na época da conclusão do meu curso, fui premiado com a Láurea Acadêmica como aluno destaque da graduação.
 
