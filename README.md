@@ -12,6 +12,14 @@ Recentemente, me aproximei da área de dados e conheci um mundo abrangedor, que 
 
 Fique à vontade para conhecer os meus projetos. Caso queira entrar em contato, pode me procurar por meio das minhas redes. Ficarei honrado em conversar sobre o mundo dos dados!
 
+### Contatos
+
+<img width="10" height="10" alt="Gmail" src="https://github.com/user-attachments/assets/594ab9ec-c88c-408d-aead-164717a2ccf0" />
+ybarbalho48@gmail.com
+</br>
+<img width="10" height="10" alt="LinkedIn" src="https://github.com/user-attachments/assets/3245f24f-c5d8-4a03-9622-5b65424f1c74" />
+https://www.linkedin.com/in/ybarbalho
+
 ##  Projetos em destaque
 
 | Projeto                  | Descrição resumida                          | Tecnologias         | Link                                      |
