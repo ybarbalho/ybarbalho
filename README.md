@@ -35,9 +35,10 @@ https://www.linkedin.com/in/ybarbalho
 
 <p align="left">
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" alt="SQL" width="40" height="40"/></a>
   <a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jupyter.svg" alt="Jupyter" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="PowerBI" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
